@@ -23,7 +23,7 @@ Gözetimli öğrenme için **k-En Yakın Komşu (k-Nearest Neighbors - KNN) Sın
 
 Gözetimsiz öğrenme tarafında ise **k-Ortalama (k-Means) Kümeleme** algoritması kullanılmıştır. Aynı zamanda boyut azaltma işlemi de uygulanarak PCA (Principal Component Analysis) ile daha verimli sonuçlar elde edilmesi sağlanmış ve sonuçlar grafik olarak görselleştirilmiştir.
 
-# Kaggle Notebook
+## Kaggle Notebook
 https://www.kaggle.com/code/fatihyank/ml-project-online-payment-fraud-detection
 
 
